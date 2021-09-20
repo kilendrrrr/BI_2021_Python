@@ -9,7 +9,7 @@ if math_operation == "+":
         result = a + b
 elif math_operation == "-":
         result = a - b
-elif math_operaton == "*":
+elif math_operation == "*":
         result = a * b
 elif math_operation == "/":
         result = a /b
