@@ -13,8 +13,8 @@ elif math_operation == "*":
         result = a * b
 elif math_operation == "/":
         result = a /b
-elif math_operation == "^":
-        result = a ^ b
+elif math_operation == "**":
+        result = a ** b
         
 print("Result:", result)
         
